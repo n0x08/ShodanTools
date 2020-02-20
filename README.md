@@ -6,33 +6,33 @@ This will become more organized over time. Promise.
 ### Gradle Server:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.html%3A%22Gradle+Enterprise+server%22)
 ```
-"http.html:"Gradle Enterprise server""
+http.html:"Gradle Enterprise server"
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.html%3A%22Gradle+Enterprise%22)
 ```
-"http.html:"Gradle Enterprise""
+http.html:"Gradle Enterprise"
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.html%3AGradle)
 ```
-"http.html:Gradle"
+http.html:Gradle
 ```
 
 ### RDP Gateway:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.html%3AtdDomainUserNameLabel)
 ```
-"Server: Prismview Player"
+http.html:tdDomainUserNameLabel
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=RDWeb)
 ```
-"Server: Prismview Player"
+RDWeb
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=TSWAFeatureCheckCookie)
 ```
-"Server: Prismview Player"
+TSWAFeatureCheckCookie
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=path%3D%2FRDWeb%2F)
 ```
-"Server: Prismview Player"
+path=/RDWeb/
 ```
 
 ### HP Printers:
