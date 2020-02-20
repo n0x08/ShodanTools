@@ -80,153 +80,153 @@ MRHSession
 ### Pulse Secure: 
 [🔎 &#x2192;](https://beta.shodan.io/search?query=product%3A%22Pulse+Secure%22)
 ```
-"Server: Prismview Player"
+product:"Pulse Secure"
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=+http.title%3APulse)
 ```
-"Server: Prismview Player"
+http.title:Pulse
 ```
 
 ### Citrix:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3Anetscaler)
 ```
-"Server: Prismview Player"
+http.title:netscaler
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3Acitrix)
 ```
-"Server: Prismview Player"
+http.title:citrix
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22Endpoint+Management+-+Console+-+Logon%22)
 ```
-"Server: Prismview Player"
+http.title:"Endpoint Management - Console - Logon"
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=Citrix-TransactionId)
 ```
-"Server: Prismview Player"
+Citrix-TransactionId
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.waf%3A%22Citrix+NetScaler%22)
 ```
-"Server: Prismview Player"
+http.waf:"Citrix NetScaler"
 ```
 
 ### Oracle E-Business Suite:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22E-Business+Suite+Home+Page+Redirect%22)
 ```
-"Server: Prismview Player"
+http.title:"E-Business Suite Home Page Redirect"
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=path%3D%2FOA_HTML+-http.title%3A%22E-Business+Suite%22)
 ```
-"Server: Prismview Player"
+path=/OA_HTML -http.title:"E-Business Suite"
 ```
 
 ### Polycom Phones:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=ssl.cert.subject.CN%3Apolycom)
 ```
-"Server: Prismview Player"
+ssl.cert.subject.CN:polycom
 ```
 
 ### Webmin: 
-[🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3Awebmin+-1.930)
+[🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3AWebmin)
 ```
-"Server: Prismview Player"
+http.title:Webmin
 ```
 
 ### Team City:
-[🔎 &#x2192;](https://beta.shodan.io/search?query=title%3ALog+in+to+TeamCity+--+TeamCity)
+[🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3ALog+in+to+TeamCity+--+TeamCity)
 ```
-"Server: Prismview Player"
+http.title:Log in to TeamCity -- TeamCity
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=TeamCity-Node-Id)
 ```
-"Server: Prismview Player"
+TeamCity-Node-Id
 ```
 
 ### Barix Streamers (radio encoding systems)
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.favicon.hash:-1964089279)
 ```
-"Server: Prismview Player"
+http.favicon.hash:-1964089279
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.favicon.hash:611241354)
 ```
-"Server: Prismview Player"
+http.favicon.hash:611241354
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=Barix)
 ```
-"Server: Prismview Player"
+Barix
 ```
 
 ### Sonos CONNECT:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=product%3A%22Sonos+CONNECT%3AAMP%22)
 ```
-"Server: Prismview Player"
+product:"Sonos CONNECT:AMP"
 ```
 
 ### TP Link Gigagbit:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=TP-LINK%20Gigabit)
 ```
-"Server: Prismview Player"
+TP-LINK Gigabit
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=Server%3A+Router+Webserver)
 ```
-"Server: Prismview Player"
+Server: Router Webserver
 ```
 
 ### TP-Link:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22TL-WR841N%22)
 ```
-"Server: Prismview Player"
+http.title:"TL-WR841N"
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=Basic+realm%3DTP-LINK)
 ```
-"Server: Prismview Player"
+Basic realm=TP-LINK
 ```
 
 ### Keenetic Smart Home:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22Keenetic+Web%22)
 ```
-"Server: Prismview Player"
+http.title:"Keenetic Web"
 ```
 
 ### Home Assistant Smart Home:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22Home+Assistant%22)
 ```
-"Server: Prismview Player"
+http.title:"Home Assistant"
 ```
 
 ### Fritz!BOX SOHO Router:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22FRITZ%21Box%22)
 ```
-"Server: Prismview Player"
+http.title:"FRITZ!Box"
 ```
 
 ### CoSHIP SOHO:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22EMTA%22)
 ```
-"Server: Prismview Player"
+http.title:"EMTA"
 ```
 
 ### Broadband Routers:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=Basic%20realm=%22Broadband%20Router%22)
 ```
-"Server: Prismview Player"
+Basic realm="Broadband Router"
 ```
 
 ### MoviStar FIOS Router:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22movistar%22)
 ```
-"Server: Prismview Player"
+http.title:"movistar"
 ```
 
 ### Juniper Router:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22Log+In+-+Juniper+Web+Device+Manager%22)
 ```
-"Server: Prismview Player"
+http.title:"Log In - Juniper Web Device Manager"
 ```
 
 ### Cyberoam SSL VPN:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=ssl.cert.issuer.CN%3ACyberoam+)
 ```
-"Server: Prismview Player"
+ssl.cert.issuer.CN:Cyberoam
 ```
 
 ### Blue Iris Video surveillance
