@@ -232,171 +232,171 @@ ssl.cert.issuer.CN:Cyberoam
 ### Blue Iris Video surveillance
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22Blue+Iris+Login%22)
 ```
-"Server: Prismview Player"
+http.title:"Blue Iris Login"
 ```
 
 ### Cambrium Networks:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22ePMP%22)
 ```
-"Server: Prismview Player"
+http.title:"ePMP"
 ```
 
 ### Random device setup pages:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22Setup%22)
 ```
-"Server: Prismview Player"
+http.title:"Setup"
 ```
 
 ### VMWare ESXI:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22%5C%22+%2B+ID_EESX_Welcome+%2B+%5C%22%22)
 ```
-"Server: Prismview Player"
+http.title:"\" + ID_EESX_Welcome + \""
 ```
 
 ### Server Backup Manager:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22Server+Backup+Manager%22)
 ```
-"Server: Prismview Player"
+http.title:"Server Backup Manager"
 ```
 
 ### DrayTek Vigor router:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22Vigor+Login+Page%22)
 ```
-"Server: Prismview Player"
+http.title:"Vigor Login Page"
 ```
 
 ### APC Power (UPS?)
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22APC+%7C+Log+On%22)
 ```
-"Server: Prismview Player"
+http.title:"APC | Log On"
 ```
 
 ### Kubernetes:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=ssl.cert.issuer.CN%3Akubernetes)
 ```
-"Server: Prismview Player"
+ssl.cert.issuer.CN:kubernetes
 ```
 
 ### Kubernetes API Server:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=ssl.cert.subject.cn%3Akube-apiserver)
 ```
-"Server: Prismview Player"
+ssl.cert.subject.cn:kube-apiserver
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=ssl.cert.subject.cn%3Akube-apiserver+%22200+OK%22)
 ```
-"Server: Prismview Player"
+ssl.cert.subject.cn:kube-apiserver "200 OK"
 ```
 
 ### EA Server:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=Server:%20EA-HTTP/1.0%20has_screenshot:true)
 ```
-"Server: Prismview Player"
+Server: EA-HTTP/1.0 has_screenshot:true
 ```
 
 ### Metasploit:
-[🔎 &#x2192;](https://beta.shodan.io/search?query=title%3AMetasploit)
+[🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3AMetasploit)
 ```
-"Server: Prismview Player"
+http.title:Metasploit
 ```
-[🔎 &#x2192;](https://beta.shodan.io/search?query=title:%22Metasploit%20is%20initializing%22)
+[🔎 &#x2192;](https://beta.shodan.io/search?query=http.title:%22Metasploit%20is%20initializing%22)
 ```
-"Server: Prismview Player"
+http.title:"Metasploit is initializing"
 ```
-[🔎 &#x2192;](https://beta.shodan.io/search?query=title:%22Metasploit%20-%20Setup%20and%20Configuration%22)
+[🔎 &#x2192;](https://beta.shodan.io/search?query=http.title:%22Metasploit%20-%20Setup%20and%20Configuration%22)
 ```
-"Server: Prismview Player"
+http.title:"Metasploit - Setup and Configuration"
 ```
 
 ### OpenSMTPD:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=product%3A%22OpenSMTPD%22)
 ```
-"Server: Prismview Player"
+product:"OpenSMTPD"
 ```
 
 ### HP iLO3:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=ssl.cert.issuer.CN%3A%22iLO3+Default+Issuer+%28Do+not+trust%29%22)
 ```
-"Server: Prismview Player"
+ssl.cert.issuer.CN:"iLO3 Default Issuer (Do not trust)"
 ```
 
 ### ZyXEL:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=ssl.cert.issuer.CN%3AZyXEL)
 ```
-"Server: Prismview Player"
+ssl.cert.issuer.CN:ZyXEL
 ```
 
 ### ZTE:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22F660%22)
 ```
-"Server: Prismview Player"
+http.title:"F660"
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=ZTE%20corp)
 ```
-"Server: Prismview Player"
+ZTE corp
 ```
 
 ### SonicWall:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22Policy+Jump%22)
 ```
-"Server: Prismview Player"
+http.title:"Policy Jump"
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22SonicWALL+-+Authentication%22)
 ```
-"Server: Prismview Player"
+http.title:"SonicWALL - Authentication"
 ```
 
 ### Tilgin SOHO Router:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22myhome%22)
 ```
-"Server: Prismview Player"
+http.title:myhome
 ```
 
 ### ActionTec:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22Advanced+Setup+-+Security+-+Admin+User+Name+%26amp%3B+Password%22)
 ```
-"Server: Prismview Player"
+http.title:"Advanced Setup - Security - Admin User Name &amp; Password"
 ```
 
 ### GPON:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22GPON+ONT%22)
 ```
-"Server: Prismview Player"
+http.title:"GPON ONT"
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22GPON+Home+Gateway%22)
 ```
-"Server: Prismview Player"
+http.title:"GPON Home Gateway"
 ```
 
 ### MikroTIK:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22RouterOS+router+configuration+page%22)
 ```
-"Server: Prismview Player"
+http.title:"RouterOS router configuration page"
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22Router%22)
 ```
-"Server: Prismview Player"
+http.title:"Router"
 ```
 
 ### Xiongmai NetSurveillance:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22NETSurveillance+WEB%22)
 ```
-"Server: Prismview Player"
+http.title:"NETSurveillance WEB"
 ```
 
 ### WatchGuard:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=ssl.cert.issuer.CN%3A%22Fireware+web+CA%22)
 ```
-"Server: Prismview Player"
+ssl.cert.issuer.CN:"Fireware web CA"
 ```
 
 ### FosCAM IP Cameras:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22IPCam+Client%22)
 ```
-"Server: Prismview Player"
+http.title:"IPCam Client"
 ```
 
 ### 3CX VOIP:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%223CX+Phone+System+Management+Console%22)
 ```
-"Server: Prismview Player"
+http.title:"3CX Phone System Management Console"
 ```
