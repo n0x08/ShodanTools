@@ -4,9 +4,9 @@ Collection of scripts &amp; fingerprinting tricks for Shodan.io
 This will become more organized over time. Promise.
 
 ### Gradle Server:
-[🔎 &#x2192;](https://beta.shodan.io/search?query=http.html%3A%22Gradle+Enterprise+server%22)
+[🔎 &#x2192;](https://beta.shodan.io/search?query=http.html%3A%22Gradle+Enterprise+Server%22)
 ```
-http.html:"Gradle Enterprise server"
+http.html:"Gradle Enterprise Server"
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.html%3A%22Gradle+Enterprise%22)
 ```
@@ -38,43 +38,43 @@ path=/RDWeb/
 ### HP Printers:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=Server%3A+HP_Compact_Server)
 ```
-"Server: Prismview Player"
+Server: HP_Compact_Server
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=ssl.cert.subject.CN%3AJetdirect+)
 ```
-"Server: Prismview Player"
+ssl.cert.subject.CN:Jetdirect
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=HP%20Photosmart)
 ```
-"Server: Prismview Player"
+HP Photosmart
 ```
 
 ### F5 Networks VPNs:
-[🔎 &#x2192;](https://beta.shodan.io/search?query=http.html%3A%22BIG-IP+logout)
+[🔎 &#x2192;](https://beta.shodan.io/search?query=http.html%3A%22BIG-IP+logout%22)
 ```
-"Server: Prismview Player"
+http.html:"BIG-IP logout"
 ```
 
 ### F5 Devices:
-[🔎 &#x2192;](https://beta.shodan.io/search?query=BigIP)
+[🔎 &#x2192;](https://beta.shodan.io/search?query=Server%3A+BigIP)
 ```
-"Server: Prismview Player"
+Server: BigIP
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=BIGipServerPool)
 ```
-"Server: Prismview Player"
+BIGipServerPool
 ```
-[🔎 &#x2192;](https://beta.shodan.io/search?query=F5_ST)
+[🔎 &#x2192;](https://beta.shodan.io/search?query=Set-Cookie%3A+F5_ST)
 ```
-"Server: Prismview Player"
+Set-Cookie: F5_ST
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=LastMRH_Session)
 ```
-"Server: Prismview Player"
+LastMRH_Session
 ```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=MRHSession)
 ```
-"Server: Prismview Player"
+MRHSession
 ```
 
 ### Pulse Secure: 
