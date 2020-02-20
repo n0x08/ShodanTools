@@ -4,9 +4,9 @@ Collection of scripts &amp; fingerprinting tricks for Shodan.io
 This will become more organized over time. Promise.
 
 ### Gradle Server:
-https://beta.shodan.io/search?query=http.html%3A%22Gradle+Enterprise+server%22
-https://beta.shodan.io/search?query=http.html%3A%22Gradle+Enterprise%22
-https://beta.shodan.io/search?query=http.html%3AGradle
+[🔎 &#x2192;](https://beta.shodan.io/search?query=http.html%3A%22Gradle+Enterprise+server%22)
+[🔎 &#x2192;](https://beta.shodan.io/search?query=http.html%3A%22Gradle+Enterprise%22)
+[🔎 &#x2192;](https://beta.shodan.io/search?query=http.html%3AGradle)
 
 ### RDP Gateway:
 https://beta.shodan.io/search?query=http.html%3AtdDomainUserNameLabel
