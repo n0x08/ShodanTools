@@ -3,6 +3,42 @@ Collection of scripts &amp; fingerprinting tricks for Shodan.io
 
 This will become more organized over time. Promise.
 
+### F5 Networks Management Interfaces
+[🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22BIG-IP%26reg%3B-+Redirect%22)
+```
+http.title:"BIG-IP&reg;- Redirect"
+```
+[🔎 &#x2192;](https://beta.shodan.io/search?query=http.favicon.hash%3A-335242539)
+```
+http.favicon.hash:-335242539
+```
+### F5 Networks VPNs:
+[🔎 &#x2192;](https://beta.shodan.io/search?query=http.html%3A%22BIG-IP+logout%22)
+```
+http.html:"BIG-IP logout"
+```
+
+### F5 Devices:
+[🔎 &#x2192;](https://beta.shodan.io/search?query=Server%3A+BigIP)
+```
+Server: BigIP
+```
+[🔎 &#x2192;](https://beta.shodan.io/search?query=BIGipServerPool)
+```
+BIGipServerPool
+```
+[🔎 &#x2192;](https://beta.shodan.io/search?query=Set-Cookie%3A+F5_ST)
+```
+Set-Cookie: F5_ST
+```
+[🔎 &#x2192;](https://beta.shodan.io/search?query=LastMRH_Session)
+```
+LastMRH_Session
+```
+[🔎 &#x2192;](https://beta.shodan.io/search?query=MRHSession)
+```
+MRHSession
+```
 ### Gradle Server:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.html%3A%22Gradle+Enterprise+Server%22)
 ```
@@ -48,43 +84,6 @@ ssl.cert.subject.CN:Jetdirect
 ```
 HP Photosmart
 ```
-### F5 Networks Management Interfaces
-[🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22BIG-IP%26reg%3B-+Redirect%22)
-```
-http.title:"BIG-IP&reg;- Redirect"
-```
-[🔎 &#x2192;](https://beta.shodan.io/search?query=http.favicon.hash%3A-335242539)
-```
-http.favicon.hash:-335242539
-```
-### F5 Networks VPNs:
-[🔎 &#x2192;](https://beta.shodan.io/search?query=http.html%3A%22BIG-IP+logout%22)
-```
-http.html:"BIG-IP logout"
-```
-
-### F5 Devices:
-[🔎 &#x2192;](https://beta.shodan.io/search?query=Server%3A+BigIP)
-```
-Server: BigIP
-```
-[🔎 &#x2192;](https://beta.shodan.io/search?query=BIGipServerPool)
-```
-BIGipServerPool
-```
-[🔎 &#x2192;](https://beta.shodan.io/search?query=Set-Cookie%3A+F5_ST)
-```
-Set-Cookie: F5_ST
-```
-[🔎 &#x2192;](https://beta.shodan.io/search?query=LastMRH_Session)
-```
-LastMRH_Session
-```
-[🔎 &#x2192;](https://beta.shodan.io/search?query=MRHSession)
-```
-MRHSession
-```
-
 ### Pulse Secure: 
 [🔎 &#x2192;](https://beta.shodan.io/search?query=product%3A%22Pulse+Secure%22)
 ```
