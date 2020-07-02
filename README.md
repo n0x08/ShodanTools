@@ -53,7 +53,10 @@ HP Photosmart
 ```
 http.title:"BIG-IP&reg;- Redirect"
 ```
-
+[🔎 &#x2192;](https://beta.shodan.io/search?query=http.favicon.hash%3A-335242539)
+```
+http.favicon.hash:-335242539
+```
 ### F5 Networks VPNs:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.html%3A%22BIG-IP+logout%22)
 ```
