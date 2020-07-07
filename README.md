@@ -95,6 +95,10 @@ http.title:Pulse
 ```
 
 ### Citrix:
+[🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3A%22Citrix+Login%22)
+```
+http.title:"Citrix Login"
+```
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.title%3Anetscaler)
 ```
 http.title:netscaler
