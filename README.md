@@ -39,6 +39,11 @@ LastMRH_Session
 ```
 MRHSession
 ```
+### Palo Alto GlobalProtect
+[🔎 &#x2192;](https://beta.shodan.io/search?query=http.html%3A%22Global+Protect%22)
+```
+http.html:"Global Protect"
+```
 ### Gradle Server:
 [🔎 &#x2192;](https://beta.shodan.io/search?query=http.html%3A%22Gradle+Enterprise+Server%22)
 ```
